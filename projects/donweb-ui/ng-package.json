@@ -3,5 +3,8 @@
   "dest": "../../dist/donweb-ui",
   "lib": {
     "entryFile": "src/public-api.ts"
-  }
+  },
+   "assets": [
+      "src/lib/theme/**"
+    ]
 }

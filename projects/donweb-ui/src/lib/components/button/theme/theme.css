@@ -1,0 +1,14 @@
+:root {
+  --btn-bg-color: rgb(55, 114, 222);
+  --btn-color: rgb(134, 206, 33);
+}
+
+donweb-button[data-theme="summer"] {
+  --btn-bg-color: rgb(222, 24, 114);
+  --btn-color: rgb(143, 218, 43);
+}
+
+donweb-button[data-theme="spring"] {
+  --btn-bg-color: rgb(199, 206, 57);
+  --btn-color: rgb(179, 29, 225);
+}
