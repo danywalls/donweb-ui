@@ -28,9 +28,8 @@
           "builder": "@angular-devkit/build-angular:karma",
           "options": {
             "tsConfig": "projects/donweb-ui/tsconfig.spec.json",
-            "polyfills": [
-              "zone.js",
-              "zone.js/testing"
+            "polyfills": ["zone.js", "zone.js/testing"],
+        
             ]
           }
         }

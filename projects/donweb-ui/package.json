@@ -1,9 +1,22 @@
 {
   "name": "donweb-ui",
-  "version": "0.0.5",
+  "version": "0.0.14",
   "peerDependencies": {
     "@angular/common": "^17.3.0",
-    "@angular/core": "^17.3.0"
+    "@angular/core": "^17.3.0",
+    "@progress/kendo-angular-buttons": "15.3.0",
+    "@progress/kendo-angular-common": "15.3.0",
+    "@progress/kendo-angular-dateinputs": "^15.3.0",
+    "@progress/kendo-angular-icons": "15.3.0",
+    "@progress/kendo-angular-inputs": "15.3.0",
+    "@progress/kendo-angular-intl": "15.3.0",
+    "@progress/kendo-angular-l10n": "15.3.0",
+    "@progress/kendo-angular-label": "15.3.0",
+    "@progress/kendo-angular-navigation": "15.3.0",
+    "@progress/kendo-angular-popup": "15.3.0",
+    "@progress/kendo-licensing": "^1.0.2",
+    "@progress/kendo-svg-icons": "^2.0.0",
+    "@progress/kendo-theme-default": "^7.2.0"
   },
   "dependencies": {
     "tslib": "^2.3.0"
